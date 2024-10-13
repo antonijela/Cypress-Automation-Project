@@ -1,0 +1,41 @@
+{
+  "invalidCredentials": [
+      {
+          "name": "Ana",
+          "email": "ana.qa.tester@outlook.com"
+      },
+      {
+          "name": "Ana",
+          "email": "mail@"
+      },
+      {
+          "name": "Ana",
+          "email": "@mail"
+      },
+      {
+          "name": "Ana",
+          "email": "@mail.com"
+      },
+      {
+          "name": "Ana",
+          "email": "specialchar@#!aa.com"
+      }
+  ],
+
+  "emptyFieldsData":[
+    {
+        "name": "",
+        "email": "1234567"
+    },
+    {
+        "name": "ana.qa.tester@outlook.com",
+        "email": ""
+    },
+    {
+        "name": "",
+        "email": ""
+    }
+]
+}
+
+  

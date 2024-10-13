@@ -1,0 +1,30 @@
+{
+  "validData": [
+    {
+      "name": "Ana",
+      "email": "ana.qa.tester@outlook.com",
+      "subject": "payment",
+      "message": "random text"
+    }
+  ],
+  "invalidData": [
+    {
+      "name": "Ana",
+      "email": "dsfv@#!hfgjh",
+      "subject": "payment",
+      "message": "random text"
+    },
+    {
+      "name": "Ana",
+      "email": "dfhgjhjn",
+      "subject": "payment",
+      "message": "random text"
+    },
+    {
+      "name": "Ana",
+      "email": "fffvg....",
+      "subject": "payment",
+      "message": "random text"
+    }
+  ]
+}
